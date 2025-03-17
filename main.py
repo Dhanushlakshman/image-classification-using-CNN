@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  9 08:12:07 2023
 
-@author: Thamarai Selvan.D
-"""
 
 import tensorflow as tf
 import matplotlip.pyplot as plt
