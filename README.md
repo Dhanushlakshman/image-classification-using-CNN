@@ -1,6 +1,10 @@
 # Convolutional Neural Network (CNN) Image Classifier
   This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images into two categories: Cats and Dogs. The model is trained on labeled image datasets and evaluated for accuracy. It also includes image augmentation techniques to improve generalization.
 
+
+  #  Data sets
+ ** https://www.kaggle.com/datasets/mahmudulhaqueshawon/catcat **   To download the data sets for the mention link.
+
   # CNN/
 │── training_set/          # Training dataset
 │── test_set/              # Test dataset
